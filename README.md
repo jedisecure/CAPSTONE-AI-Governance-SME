@@ -1,9 +1,9 @@
 # A Practical AI Security Baseline for Singapore SMEs Adopting Generative AI
 
 **Maria Singh** — Lead Researcher, AI Governance & Cybersecurity
-IT595 Information Technology Capstone, Purdue Global University · Faculty Advisor: Dr Ash Luitel
+IT595 Master's Capstone in Cybersecurity Management, Purdue Global University · Faculty Advisor: Dr Ash Luitel
 
-Generative AI introduces governance and cybersecurity risks — data protection, third-party accountability, human oversight, information security, and incident management — that organizations must address throughout the AI lifecycle. There is no structured baseline for how Singapore SMEs are actually handling these risks, what's blocking them, or what support they need. This project addresses that evidence gap through a pilot assessment of 8–10 SMEs, recruited with support from the Singapore AI Association (SAIA) and SCCCI.
+Generative AI introduces governance and cybersecurity risks — data protection, third-party accountability, human oversight, information security, and incident management — that organizations must address throughout the AI lifecycle. There is no structured baseline for how Singapore SMEs are actually handling these risks, what's blocking them, or what support they need. This project addresses that evidence gap through an exploratory pilot: a convenience sample of five to eight SMEs recruited through the SAIA AI Discovery Clinic, with SCCCI included as an additional recruitment partner if formally confirmed. Findings will be reported as an exploratory snapshot rather than a readiness certification or a representation of all Singapore SMEs.
 
 **Guiding research question:** What minimum cybersecurity and governance controls should an SME implement before employees use generative AI for business work?
 
